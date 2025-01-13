@@ -65,6 +65,7 @@ footer .copy{font-size:20px;color:#cbcbcb;}
 }
 
 @media(max-width:767px){
+    #main .mainBg{background:url(../img/m_bg_img.jpg) center center no-repeat;}
     .mainCont h2{font-size:65px;}
     .scrollBtn{width:80px;height:80px;font-size:14px;}
     .flexBox{display:block;}
