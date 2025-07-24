@@ -26,7 +26,7 @@ header.scroll{position:fixed;background:#000;}
 .workCont .inner > div:nth-of-type(n+2){margin-top:80px;}
 .workCont .workBox{display:flex;flex-wrap:wrap;margin:-1%;}
 .workCont .workBox > li{border-radius:15px;width: 31.3%;margin:1%;background:#fff;}
-.workCont .workBox li a{display:block;padding: 25px 20px 25px;}
+.workCont .workBox li a{border-radius:15px;display:block;padding: 25px 20px 25px;}
 .workCont .workBox dl{margin-top:15px;}
 .workCont .workBox dl dt img{border-radius:15px;}
 .workCont .workBox dl dd{margin-top: 20px;}
