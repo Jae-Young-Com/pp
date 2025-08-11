@@ -12,10 +12,9 @@ header.scroll{position:fixed;background:#000;}
 .mainCont{width:100vw;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;}
 .mainCont h2{text-align:center;font-size:80px;font-weight:900;color:#fff;}
 .inner{max-width:1200px;margin:0 auto;}
-.flexBox{display:flex;align-items:center;}
+.flexBox{display:flex;}
 .aboutCont{padding:100px 0;}
 .aboutCont .imgBox{width:400px;}
-.aboutCont .flexBox{align-items:flex-start;}
 .aboutCont .flexBox dl{width:800px;word-break:keep-all;padding:5% 0 0 50px;}
 .aboutCont .flexBox dl dt{font-size:40px;font-weight:700;color:#b5b5b5;}
 .aboutCont .flexBox dl dd{font-size:20px;margin-top:60px;color:#888;line-height:1.6;}
@@ -94,3 +93,4 @@ footer .copy{font-size:20px;color:#cbcbcb;}
     .workCont .workBox dl dd ul li div{font-size:16px;}
     .workCont .inner > div:nth-of-type(n+2){margin-top:60px;}
 }
+
