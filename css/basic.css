@@ -84,6 +84,7 @@ footer .copy{font-size:20px;color:#cbcbcb;}
 }
 
 @media(max-width:501px){
+    .aboutCont .imgBox{width:100%;}
     .workCont h5{font-size:23px;}
     .workCont h6{font-size:18px;}
     .workCont .workBox{max-height:500px;overflow-y:scroll;}
@@ -93,4 +94,5 @@ footer .copy{font-size:20px;color:#cbcbcb;}
     .workCont .workBox dl dd ul li div{font-size:16px;}
     .workCont .inner > div:nth-of-type(n+2){margin-top:60px;}
 }
+
 
